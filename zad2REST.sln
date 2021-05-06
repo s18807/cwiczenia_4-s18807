@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zad2REST", "zad2REST\zad2REST.csproj", "{0DA92AC6-6B63-4353-9AC2-A04C8D2318D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DA92AC6-6B63-4353-9AC2-A04C8D2318D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DA92AC6-6B63-4353-9AC2-A04C8D2318D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DA92AC6-6B63-4353-9AC2-A04C8D2318D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DA92AC6-6B63-4353-9AC2-A04C8D2318D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {373FC0B4-6A1E-440C-A465-E4DAC126D85A}
+	EndGlobalSection
+EndGlobal
