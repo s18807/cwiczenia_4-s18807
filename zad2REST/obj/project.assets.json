@@ -631,11 +631,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Marcin\\Desktop\\Informatyka zaoczne 2019-2020\\APBD\\cwiczenia_3-s18807\\zad2REST\\zad2REST.csproj",
+      "projectUniqueName": "C:\\Users\\Marcin\\Desktop\\Informatyka zaoczne 2019-2020\\APBD\\cwiczenia_4-s18807\\zad2REST\\zad2REST.csproj",
       "projectName": "zad2REST",
-      "projectPath": "C:\\Users\\Marcin\\Desktop\\Informatyka zaoczne 2019-2020\\APBD\\cwiczenia_3-s18807\\zad2REST\\zad2REST.csproj",
+      "projectPath": "C:\\Users\\Marcin\\Desktop\\Informatyka zaoczne 2019-2020\\APBD\\cwiczenia_4-s18807\\zad2REST\\zad2REST.csproj",
       "packagesPath": "C:\\Users\\Marcin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Marcin\\Desktop\\Informatyka zaoczne 2019-2020\\APBD\\cwiczenia_3-s18807\\zad2REST\\obj\\",
+      "outputPath": "C:\\Users\\Marcin\\Desktop\\Informatyka zaoczne 2019-2020\\APBD\\cwiczenia_4-s18807\\zad2REST\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

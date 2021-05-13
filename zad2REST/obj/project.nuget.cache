@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8LpVHd3CyuYsDGU1wIE8maeL8tsMrFD3YsW16t25Esfgjwy8yqJlEudJDyg0HYvc80TPiXC4yQwudEU5kvy5jQ==",
+  "dgSpecHash": "KjsbGmvlmCWg0Kr9KEfoP+fXSHLpBaPNVUUKTp2hyeRId6Xe8VliJR1L3QqwW0iUqcVwfb8P5GoDykEn9yv+Zg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Marcin\\Desktop\\Informatyka zaoczne 2019-2020\\APBD\\cwiczenia_3-s18807\\zad2REST\\zad2REST.csproj",
+  "projectFilePath": "C:\\Users\\Marcin\\Desktop\\Informatyka zaoczne 2019-2020\\APBD\\cwiczenia_4-s18807\\zad2REST\\zad2REST.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Marcin\\.nuget\\packages\\csvhelper\\26.1.0\\csvhelper.26.1.0.nupkg.sha512",
     "C:\\Users\\Marcin\\.nuget\\packages\\json.net\\1.0.25\\json.net.1.0.25.nupkg.sha512",
